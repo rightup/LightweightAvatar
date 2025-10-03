@@ -39,5 +39,5 @@ npm run build
 ```
 
 
-Check it out `https://rightup.github.io/LightweightAvatar/`
+Check it out https://rightup.github.io/LightweightAvatar/
 
